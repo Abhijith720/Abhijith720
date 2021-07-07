@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="50px"> Hi there, I'm Abhijith
 </h1>
-* 👀 I’m DataScience Enthusiast <br><img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" height="500px" width="500px">
+* 👀 I’m DataScience Enthusiast <br><img align="right" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" height="250px" width="250px">
 * :computer: Interested in building ML related projects<br>
 <br>
 * :star: Have experience in Web Development<br>
